@@ -23,6 +23,6 @@ I really like these things:
   <li>Music</li>
   <li>Astronomy</li>
 </ol>
-My favourite programming launguage is JavaScript, my favourite music to program by is by <a href="https://www.youtube.com/c/NyxTheShieldOFFICIAL">NyxTheShield</a> and I love discovering the secrets of our universe!
+My favourite programming launguage is JavaScript, my favourite music to program by is made by <a href="https://www.youtube.com/c/NyxTheShieldOFFICIAL">NyxTheShield</a> and I love discovering the secrets of our universe!
 <h2>Want to talk to me and more people?</h2>
   You can find me on <a href="https://discord.gg/hTanCT5JMp">my discord server</a>
