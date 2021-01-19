@@ -1,7 +1,7 @@
 <h1>Hello! Welcome to my profile! 👋</h1>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daimond113&show_icons=true&theme=gotham" />
 </a>
 </p>
