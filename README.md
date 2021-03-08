@@ -13,16 +13,17 @@
 </p>
 
 <h2>Who am I?</h2>
-I am daimond113, a small developer who really enjoys programming and some music!
+I am daimond113, a small developer who really enjoys programming!
 <h2>What are you currently working on?</h2>
 I am currently working on alot! But you can look at <a href="https://github.com/daimond113?tab=repositories">my profile</a> to see all my open-source projects!
 <h2>What are your interests?</h2>
 I really like these things:
 <ol>
   <li>Programming</li>
-  <li>Music</li>
   <li>Astronomy</li>
 </ol>
-My favourite programming launguage is JavaScript, my favourite music to program by is made by <a href="https://www.youtube.com/c/NyxTheShieldOFFICIAL">NyxTheShield</a> and I love discovering the secrets of our universe!
+My favourite programming launguage is JavaScript, and I love discovering the secrets of our universe!
+<h2>My NPM profile</h2>
+You can find my NPM profile here https://www.npmjs.com/~daimond113
 <h2>Want to talk to me and more people?</h2>
   You can find me on <a href="https://discord.gg/hTanCT5JMp">my discord server</a>
