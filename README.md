@@ -13,7 +13,7 @@
 </p>
 
 I'm a programmer, I really like [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (ok maybe [TypeScript](https://www.typescriptlang.org/) too). I also know languages like [Luau](https://roblox.github.io/luau) and I also know some [Java](https://java.com)!
-I use [Node.JS](https://nodejs.org) for the back-end, and for the front-end [Next](https://nextjs.org/) I also like using [Material-UI](https://material-ui.com) for my websites! [My website](https://www.daimond113.com) uses them! 
+I use [Node.JS](https://nodejs.org) for the back-end, and for the front-end [Next](https://nextjs.org/) I also like using [Material-UI](https://material-ui.com)! [My website](https://www.daimond113.com) uses them all! 
 
 Most of my projects are open-source, you can see them [here](https://github.com/daimond113?tab=repositories)
 
