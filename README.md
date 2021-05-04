@@ -1,4 +1,4 @@
-## Hello! Welcome to my profile! 👋
+# Hello! Welcome to my profile! 👋
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,7 +17,7 @@ I use [Node.JS](https://nodejs.org) for the back-end, and for the front-end [Nex
 
 Most of my projects are open-source, you can see them [here](https://github.com/daimond113?tab=repositories)
 
-# My accounts
+## My accounts
 Here are my accounts:
 
 [NPM](https://npmjs.com/~daimond113)
