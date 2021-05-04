@@ -1,4 +1,4 @@
-<h1>Hello! Welcome to my profile! 👋</h1>
+## Hello! Welcome to my profile! 👋
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -8,22 +8,22 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimond113&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimond113&hide=html,css,shell&theme=gotham" />
 </a> </br>
 </p>
 
-<h2>Who am I?</h2>
-I am daimond113, a small developer who really enjoys programming!
-<h2>What are you currently working on?</h2>
-I am currently working on alot! But you can look at <a href="https://github.com/daimond113?tab=repositories">my profile</a> to see all my open-source projects!
-<h2>What are your interests?</h2>
-I really like these things:
-<ol>
-  <li>Programming</li>
-  <li>Astronomy</li>
-</ol>
-My favourite programming launguage is JavaScript, and I love discovering the secrets of our universe!
-<h2>My NPM profile</h2>
-You can find my NPM profile here https://www.npmjs.com/~daimond113
-<h2>Want to talk to me and more people?</h2>
-  You can find me on <a href="https://discord.gg/hTanCT5JMp">my discord server</a>
+I'm a programmer, I really like [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (ok maybe [TypeScript](https://www.typescriptlang.org/) too). I also know languages like [Luau](https://roblox.github.io/luau) and I also know some [Java](https://java.com)!
+I use [Node.JS](https://nodejs.org) for the back-end, and for the front-end [Next](https://nextjs.org/) I also like using [Material-UI](https://material-ui.com) for my websites! [My website](https://www.daimond113.com) uses them! 
+
+Most of my projects are open-source, you can see them [here](https://github.com/daimond113?tab=repositories)
+
+# My accounts
+Here are my accounts:
+
+[NPM](https://npmjs.com/~daimond113)
+
+[Discord](https://discord.com/users/522510960779329540)
+
+[Twitter](https://twitter.com/dev_daimond113)
+
+# [Join my discord server!](https://discord.gg/hTanCT5JMp)
