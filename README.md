@@ -1,29 +1,31 @@
 # Hello! Welcome to my profile! 👋
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api?username=daimond113&show_icons=true?count_private=true&theme=gotham" />
-</a>
-</p>
+## I'm ~~not~~ just a human.
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api/top-langs/?username=daimond113&hide=html,css,shell&exclude_repo=github-readme-stats&theme=gotham" />
-</a> </br>
-</p>
+I like to program in my free time, I also like baking 🧁. <br />
+Most of my programming projects are open source, especially once I finish them which occurs ~~never~~ sometimes. <br />
+Most of the time, I'm avaliable, you can find me on Discord under [this link](https://discord.com/users/522510960779329540). <br />
+I really like using [Next.JS](https://nextjs.com) and [TailwindCSS](https://tailwindcss.com) for my websites, for example my [main one](https://www.daimond113.com) uses them! I belive you should give them both a try! <br />
 
-I'm a programmer, I really like [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (ok maybe [TypeScript](https://www.typescriptlang.org/) too). I also know languages like [Luau](https://roblox.github.io/luau) and I also know some [Java](https://java.com)!
-I use [Node.JS](https://nodejs.org) for the back-end, and for the front-end [Next](https://nextjs.org/). [My website](https://www.daimond113.com) uses them all! 
+Here are my 
 
-Most of my projects are open-source, you can see them [here](https://github.com/daimond113?tab=repositories)
+<details>
+  <summary>GitHub Stats</summary>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api?username=daimond113&show_icons=true?count_private=true&theme=gotham" />
+    <br />
+  </a>
 
-## My accounts
-Here are my accounts:
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api/top-langs/?username=daimond113&hide=html,css,shell&exclude_repo=github-readme-stats&theme=gotham" />
+  </a>
+</details>
+
+# My accounts 
 
 [NPM](https://npmjs.com/~daimond113)
 
 [Discord](https://discord.com/users/522510960779329540)
 
 [Twitter](https://twitter.com/dev_daimond113)
-
-# [Join my discord server!](https://discord.gg/hTanCT5JMp)
