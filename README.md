@@ -5,7 +5,7 @@ I'm daimond113, a full-stack developer from Poland. I make websites (that aren't
 <p align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api?username=daimond113&show_icons=true?count_private=true&theme=shades-of-purple" />
+    <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api?username=daimond113&show_icons=true?count_private=true&title_color=d0bcff&text_color=e6e1e6&icon_color=ffd9e2&bg_color=1e0f40" />
   </a>
   
 </p>
@@ -15,7 +15,7 @@ I'm daimond113, a full-stack developer from Poland. I make websites (that aren't
 <p align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api/top-langs/?username=daimond113&hide=html,css,shell&exclude_repo=github-readme-stats&theme=shades-of-purple" />
+    <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api/top-langs/?username=daimond113&hide=html,css,shell&exclude_repo=github-readme-stats&title_color=d0bcff&text_color=e6e1e6&icon_color=ffd9e2&bg_color=1e0f40" />
   </a>
   
 </p>
