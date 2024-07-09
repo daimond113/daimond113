@@ -12,7 +12,7 @@ Here are my GitHub stats:
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api?username=daimond113&count_private=true&show_icons=true&title_color=d2bcff&text_color=d2bcff&bg_color=08060e&icon_color=b18aff&border_color=a78bfa40" />
+    <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api?username=daimond113&show_icons=true&title_color=d2bcff&text_color=d2bcff&bg_color=08060e&icon_color=b18aff&border_color=a78bfa40" />
   </a>
   
 </div>
@@ -22,7 +22,7 @@ Here are my GitHub stats:
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api/top-langs/?username=daimond113&hide=html,css,shell&exclude_repo=github-readme-stats&title_color=d2bcff&text_color=d2bcff&bg_color=08060e&border_color=a78bfa40" />
+    <img align="center" src="https://github-readme-stats-topaz-eta.vercel.app/api/top-langs/?username=daimond113&hide=html,css,shell&exclude_repo=github-readme-stats&title_color=d2bcff&text_color=d2bcff&bg_color=08060e&border_color=a78bfa40&size_weight=0.5&count_weight=0.5" />
   </a>
   
 </div>
